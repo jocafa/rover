@@ -1,0 +1,28 @@
+{
+  "name": "jocafa-rover",
+  "version": "0.0.0",
+  "description": "Sane API for GTFS data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jocafa/rover.git"
+  },
+  "keywords": [
+    "gtfs"
+  ],
+  "author": "Josh Faul <josh.faul@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jocafa/rover/issues"
+  },
+  "homepage": "https://github.com/jocafa/rover",
+  "engines": {
+    "node": ">= 0.11.9"
+  },
+  "dependencies": {
+    "koa": "*"
+  }
+}
